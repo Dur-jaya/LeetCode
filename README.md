@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/Dur-jaya/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dur-jaya/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Dur-jaya/LeetCode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/Dur-jaya/LeetCode/tree/master/3427-special-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dur-jaya/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## String
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dur-jaya/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dur-jaya/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Counting
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dur-jaya/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
