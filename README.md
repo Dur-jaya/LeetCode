@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/Dur-jaya/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Dur-jaya/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Dur-jaya/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Dur-jaya/LeetCode/tree/master/3427-special-array-ii) |
 ## Binary Search
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/Dur-jaya/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Dur-jaya/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dur-jaya/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Dur-jaya/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
