@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dur-jaya/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dur-jaya/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dur-jaya/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dur-jaya/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Dur-jaya/LeetCode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dur-jaya/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Dur-jaya/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Dur-jaya/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dur-jaya/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dur-jaya/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Dur-jaya/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dur-jaya/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Dur-jaya/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dur-jaya/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dur-jaya/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Dur-jaya/LeetCode/tree/master/0494-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dur-jaya/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
