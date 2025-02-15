@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dur-jaya/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dur-jaya/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Dur-jaya/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Dur-jaya/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Dur-jaya/LeetCode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Dur-jaya/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
