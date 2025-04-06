@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Dur-jaya/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Dur-jaya/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Dur-jaya/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Dur-jaya/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Dur-jaya/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/Dur-jaya/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Dur-jaya/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dur-jaya/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Dur-jaya/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dur-jaya/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dur-jaya/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dur-jaya/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Dur-jaya/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dur-jaya/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dur-jaya/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dur-jaya/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
