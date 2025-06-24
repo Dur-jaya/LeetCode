@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Dur-jaya/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Dur-jaya/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Dur-jaya/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Dur-jaya/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dur-jaya/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dur-jaya/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dur-jaya/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Dur-jaya/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Dur-jaya/LeetCode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dur-jaya/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Dur-jaya/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Dur-jaya/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Dur-jaya/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dur-jaya/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
