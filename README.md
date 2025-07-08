@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Dur-jaya/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Dur-jaya/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Dur-jaya/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dur-jaya/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Dur-jaya/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dur-jaya/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dur-jaya/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Dur-jaya/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dur-jaya/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dur-jaya/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Dur-jaya/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dur-jaya/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dur-jaya/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dur-jaya/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Dur-jaya/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Dur-jaya/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dur-jaya/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dur-jaya/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Dur-jaya/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dur-jaya/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Dur-jaya/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dur-jaya/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dur-jaya/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dur-jaya/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dur-jaya/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dur-jaya/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dur-jaya/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
