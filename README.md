@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Dur-jaya/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Dur-jaya/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Dur-jaya/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dur-jaya/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Dur-jaya/LeetCode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Dur-jaya/LeetCode/tree/master/2050-count-good-numbers) |
 ## Merge Sort
 |  |
